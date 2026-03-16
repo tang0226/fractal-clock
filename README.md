@@ -1,0 +1,1 @@
+Realtime Mandelbrot-like fractals based on the current time
